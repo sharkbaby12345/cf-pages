@@ -7,7 +7,7 @@ let SSpath = '';
 
 // CF-CDN 
 let cfip = [ // 格式:优选域名:端口#备注名称、优选IP:端口#备注名称、[ipv6优选]:端口#备注名称、优选域名#备注 
-    'mfa.gov.ua#SG', 'saas.sin.fan#JP', 'store.ubi.com#SG','cf.130519.xyz#KR','cf.008500.xyz#HK', 
+    'saas.sin.fan#HK','youxuan.cf.090227.xyz#SG','mfa.gov.ua#JP','cf.877774.xyz#KR','www.shopify.com#US'
 ];  // 感谢各位大佬维护的优选域名
 
 function closeSocketQuietly(socket) {
